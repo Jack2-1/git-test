@@ -10,5 +10,8 @@ public class gittest {
         System.out.println("555");
 
         System.out.println("push test");
+        //pull test.
+        //are you ready??
+        
     }
 }
