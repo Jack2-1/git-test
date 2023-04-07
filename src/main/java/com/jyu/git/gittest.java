@@ -17,7 +17,10 @@ public class gittest {
         //我写了注释
         //我写了写东西
 
+        //果汁
         //有写了作文
+        //
+        System.out.println("nihe");
 
         //写了邪龙
     }
