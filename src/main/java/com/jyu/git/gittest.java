@@ -14,7 +14,7 @@ public class gittest {
         //are you ready??
 
         System.out.println("你好， git");
-
+//水果
         System.out.println("nice");
         //就是想写
     }
