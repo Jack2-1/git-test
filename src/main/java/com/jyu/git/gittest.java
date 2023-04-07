@@ -14,16 +14,7 @@ public class gittest {
         //are you ready??
 
         System.out.println("你好， git");
-        //我写了注释
-        //我写了写东西
 
-        //果汁
-        //有写了作文
-        //果子
-
-
-        System.out.println("nihe");
-
-        //写了邪龙
+        System.out.println("nice");
     }
 }
